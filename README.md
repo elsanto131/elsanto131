@@ -1,10 +1,6 @@
 # Hello! I'm Santo D'Acquisto | Salut ! Je suis Santo D'Acquisto
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=Designer+to+Data+Scientist;15+years+Design+%2B+AI+Specialization;UI%2FUX+Designer+%2B+Data+Science;Creative+Problem+Solver+%2B+ML;BeCode+AI+Bootcamp+LGG-Thomas5" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <a href="#english">🇺🇸 English</a> | <a href="#français">🇫🇷 Français</a>
 </div>
 
@@ -86,18 +82,6 @@ With a **solid foundation in IT R&D** and visual design, I'm now specializing in
 - **Console interface** with attractive ASCII design
 - **Documented code** following best practices
 - **Robust error handling** and smooth user experience
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elsanto131&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Santo's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsanto131&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</div>
 
 ---
 
@@ -265,18 +249,6 @@ Avec une **solide base en R&D informatique** et en design visuel, je me spécial
 - **Interface console** avec design ASCII attractif
 - **Code documenté** suivant les bonnes pratiques
 - **Gestion d'erreurs** robuste et expérience utilisateur fluide
-
----
-
-## Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elsanto131&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Santo's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsanto131&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-</div>
 
 ---
 

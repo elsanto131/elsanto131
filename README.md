@@ -39,10 +39,12 @@ With a **solid foundation in IT R&D** and visual design, I'm now specializing in
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Data Science & AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-2E8B57?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### **Cloud & DevOps**
@@ -60,6 +62,14 @@ With a **solid foundation in IT R&D** and visual design, I'm now specializing in
 ---
 
 ## Projects
+
+### [Breast Cancer Classification - MIAS Dataset](https://github.com/elsanto131/breast_cancer_ML)
+**Automatic mammography classification system using deep learning**
+- **3 CNN architectures** compared (Baseline, Optimized, ResNet50)
+- **Transfer Learning** with pre-trained ResNet50
+- **Complete analysis**: Data exploration, preprocessing, evaluation
+- **Detailed documentation**: Educational notebooks and comprehensive report
+- **Technologies**: Python, TensorFlow/Keras, OpenCV, Scikit-learn
 
 ### [MNIST Neural Network from Scratch](https://github.com/elsanto131/mnist-neural-network-from-scratch)
 **Complete neural network developed from scratch with NumPy**
@@ -206,10 +216,12 @@ Avec une **solide base en R&D informatique** et en design visuel, je me spécial
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Data Science & IA**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Nettoyage%20Données-2E8B57?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### **Cloud & DevOps**
@@ -227,6 +239,14 @@ Avec une **solide base en R&D informatique** et en design visuel, je me spécial
 ---
 
 ## Projets
+
+### [Classification Cancer du Sein - Dataset MIAS](https://github.com/elsanto131/breast_cancer_ML)
+**Système de classification automatique de mammographies utilisant le deep learning**
+- **3 architectures CNN** comparées (Baseline, Optimisé, ResNet50)
+- **Transfer Learning** avec ResNet50 pré-entraîné
+- **Analyse complète** : Exploration des données, préprocessing, évaluation
+- **Documentation détaillée** : Notebooks pédagogiques et rapport complet
+- **Technologies** : Python, TensorFlow/Keras, OpenCV, Scikit-learn
 
 ### [MNIST Neural Network from Scratch](https://github.com/elsanto131/mnist-neural-network-from-scratch)
 **Réseau de neurones complet développé from scratch avec NumPy**

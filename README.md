@@ -63,6 +63,14 @@ With a **solid foundation in IT R&D** and visual design, I'm now specializing in
 
 ## Projects
 
+### [GenAI Telephony - AI Voice Assistant](https://github.com/elsanto131/GenAI-telephony)
+**Advanced voice assistant with real-time speech processing and AI conversation**
+- **Real-time speech recognition** and text-to-speech conversion
+- **AI conversation engine** with context understanding
+- **Voice interface optimization** for natural user interaction
+- **Complete audio pipeline** from capture to response
+- **Technologies**: Python, Speech Recognition APIs, NLP, Audio Processing
+
 ### [Breast Cancer Classification - MIAS Dataset](https://github.com/elsanto131/breast_cancer_ML)
 **Automatic mammography classification system using deep learning**
 - **3 CNN architectures** compared (Baseline, Optimized, ResNet50)

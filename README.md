@@ -15,10 +15,10 @@
 With a **solid foundation in IT R&D** and visual design, I'm now specializing in the exciting field of Artificial Intelligence. My diverse background allows me to approach AI challenges with both **technical depth** and **user-centered thinking**.
 
 - **Foundation**: 15 years in graphic design, UI/UX Design, prototyping & mockups
-- **Current Specialization**: BeCode AI Bootcamp (March 2025 - 7 months)
+- **Current Specialization**: BeCode AI Bootcamp (March 2025 - September 2025)
 - **Certification**: Google Career Essentials - Artificial Intelligence (Coursera)
-- **AI Skills Development**: Python, ML, Deep Learning (January → Ongoing 2025)
-- **Current Focus**: Neural Networks, Azure Cloud, Computer Vision
+- **AI Skills Development**: Python, ML, Deep Learning (January → September 2025)
+- **Current Focus**: Advanced Neural Networks, Azure Cloud, Computer Vision
 - **Unique Value**: Design thinking applied to AI solutions
 - **Professional Goal**: Data Scientist with UX/UI expertise
 
@@ -103,22 +103,28 @@ With a **solid foundation in IT R&D** and visual design, I'm now specializing in
 - **Knowledge building**: ML principles and applications
 - **Technical skills integration**: Data analysis complementing design expertise
 
-### **Phase 2: AI Specialization** (March 2025 - Ongoing)
-**Advanced AI training and practical application**
+### **Phase 2: AI Specialization** (March 2025 - September 2025)
+**Advanced AI training and practical application - COMPLETED**
 
-#### **The Field** - Technical Foundations
+#### **Current Progress** (September 2025)
+- **Technical Foundations**: Terminal, Git, Python OOP mastery
+- **Data Science Stack**: NumPy, Pandas, Scikit-learn proficiency
+- **Applied AI Projects**: ML optimization and deployment completed
+- **Next Phase**: Preparing for Deep Learning and Computer Vision specialization
+
+#### **The Field** - Technical Foundations ✓
 - **Development Environment**: Terminal, Git, and professional coding workflows
 - **Python Mastery**: Variables, data structures, OOP, and advanced programming concepts
 - **Data Science Stack**: NumPy, Pandas for sophisticated data manipulation
 
-#### **The Hill** - Applied AI Projects
+#### **The Hill** - Applied AI Projects ✓
 - **Data Engineering**: Complex web scraping and data pipeline development
 - **Data Cleaning**: Advanced preprocessing, outlier detection, and data quality assurance
 - **Machine Learning**: Predictive modeling and algorithm optimization
 - **Deployment & Visualization**: Professional dashboards and user interfaces
 - **Full-Stack AI**: End-to-end ML solution development
 
-#### **The Mountain** - AI Expertise
+#### **The Mountain** - AI Expertise (In Progress)
 - **Deep Learning**: Neural network architecture and from-scratch implementation
 - **Computer Vision**: Advanced image processing and pattern recognition
 - **Cloud AI**: Azure ecosystem integration and scalable ML deployment
@@ -168,18 +174,19 @@ Intensive training in Artificial Intelligence
 
 ## Goals 2025-2026
 
-- **First job**: Data Scientist with UX/UI expertise
-- Master **Deep Learning** (CNN, RNN, Computer Vision)
-- Develop **AI interfaces with polished design**
-- Contribute to **open source AI projects**
-- Create **professional interactive ML dashboards**
+- **Primary objective**: Secure Data Scientist position with UX/UI expertise by end 2025
+- **Advanced Deep Learning**: Master CNN, RNN, Computer Vision architectures
+- **Professional Portfolio**: Develop production-ready AI interfaces with polished design
+- **Open Source Contribution**: Contribute to significant open source AI projects
+- **Industry Recognition**: Create professional interactive ML dashboards for real-world impact
+- **Continuous Learning**: Stay current with latest AI trends and technologies
 
 ---
 
 ### **Certifications & Training**
 - **[Google Career Essentials: Artificial Intelligence](https://coursera.org/share/592a339959a7215f072dc6e5503f47c0)** (Coursera)
-- **BeCode AI Sprint** (6 weeks - January 2025)
-- **BeCode AI Bootcamp** (7 months - March 2025)
+- **BeCode AI Sprint** (6 weeks - January 2025) - Completed
+- **BeCode AI Bootcamp** (7 months - March to September 2025) - Completed
 
 ---
 
@@ -192,10 +199,10 @@ Intensive training in Artificial Intelligence
 Avec une **solide base en R&D informatique** et en design visuel, je me spécialise maintenant dans le domaine de l'Intelligence Artificielle. Mon parcours diversifié me permet d'aborder les défis IA avec à la fois **profondeur technique** et **pensée centrée utilisateur**.
 
 - **Fondation** : 15 ans en graphisme, UI/UX Design, prototypage & maquettes
-- **Spécialisation actuelle** : BeCode AI Bootcamp (Mars 2025 - 7 mois)
+- **Spécialisation actuelle** : BeCode AI Bootcamp (Mars 2025 - Septembre 2025)
 - **Certification** : Google Career Essentials - Intelligence Artificielle (Coursera)
-- **Développement compétences IA** : Python, ML, Deep Learning (Janvier → En cours 2025)
-- **Focus actuel** : Réseaux de neurones, Azure Cloud, Computer Vision
+- **Développement compétences IA** : Python, ML, Deep Learning (Janvier → Septembre 2025)
+- **Focus actuel** : Réseaux de neurones avancés, Azure Cloud, Computer Vision
 - **Valeur unique** : Design thinking appliqué aux solutions IA
 - **Objectif professionnel** : Data Scientist avec expertise UX/UI
 
@@ -280,22 +287,28 @@ Avec une **solide base en R&D informatique** et en design visuel, je me spécial
 - **Construction de connaissances** : Principes ML et applications
 - **Intégration de compétences techniques** : Analyse de données complétant l'expertise design
 
-### **Phase 2 : Spécialisation IA** (Mars 2025 - En cours)
-**Formation IA avancée et application pratique**
+### **Phase 2 : Spécialisation IA** (Mars 2025 - Septembre 2025)
+**Formation IA avancée et application pratique - TERMINÉE**
 
-#### **The Field** - Fondations Techniques
+#### **Progression actuelle** (Septembre 2025)
+- **Fondations techniques** : Terminal, Git, Python OOP maîtrisés
+- **Stack Data Science** : NumPy, Pandas, Scikit-learn compétent
+- **Projets IA appliqués** : ML avancé et déploiement terminés
+- **Phase suivante** : Préparation Deep Learning et Computer Vision
+
+#### **The Field** - Fondations Techniques ✓
 - **Environnement de développement** : Terminal, Git, et workflows de coding professionnels
 - **Maîtrise Python** : Variables, structures de données, OOP, et concepts de programmation avancés
 - **Stack Data Science** : NumPy, Pandas pour manipulation sophistiquée des données
 
-#### **The Hill** - Projets IA Appliqués
+#### **The Hill** - Projets IA Appliqués ✓
 - **Data Engineering** : Développement de scraping complexe et pipelines de données
 - **Nettoyage de données** : Preprocessing avancé, détection d'outliers, et assurance qualité
 - **Machine Learning** : Modélisation prédictive et optimisation d'algorithmes
 - **Déploiement & Visualisation** : Dashboards professionnels et interfaces utilisateur
 - **IA Full-Stack** : Développement de solutions ML de bout en bout
 
-#### **The Mountain** - Expertise IA
+#### **The Mountain** - Expertise IA (En cours)
 - **Deep Learning** : Architecture de réseaux de neurones et implémentation from scratch
 - **Computer Vision** : Traitement d'images avancé et reconnaissance de patterns
 - **IA Cloud** : Intégration écosystème Azure et déploiement ML scalable
@@ -345,18 +358,31 @@ Formation intensive en Intelligence Artificielle
 
 ## Objectifs 2025-2026
 
-- **Premier emploi** : Data Scientist avec expertise UX/UI
-- Maîtriser le **Deep Learning** (CNN, RNN, Computer Vision)
-- Développer des **interfaces IA avec design soigné**
-- Contribuer à des **projets open source IA**
-- Créer des **dashboards ML interactifs** professionnels
+- **Objectif principal** : Décrocher un poste Data Scientist avec expertise UX/UI fin 2025
+- **Deep Learning avancé** : Maîtriser les architectures CNN, RNN, Computer Vision
+- **Portfolio professionnel** : Développer des interfaces IA prêtes pour la production avec design soigné
+- **Contribution Open Source** : Contribuer à des projets open source IA significatifs
+- **Reconnaissance industrie** : Créer des dashboards ML interactifs pour impact réel
+- **Formation continue** : Rester à jour avec les dernières tendances et technologies IA
 
 ---
 
 ### **Certifications & Formations**
 - **[Google Career Essentials : Intelligence Artificielle](https://coursera.org/share/592a339959a7215f072dc6e5503f47c0)** (Coursera)
-- **BeCode AI Sprint** (6 semaines - Janvier 2025) 
-- **BeCode AI Bootcamp** (7 mois - Mars 2025)
+- **BeCode AI Sprint** (6 semaines - Janvier 2025) - Terminé
+- **BeCode AI Bootcamp** (7 mois - Mars à Septembre 2025) - Terminé
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elsanto131&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=E6EDF3&icon_color=58A6FF" alt="Santo's GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsanto131&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=E6EDF3" alt="Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsanto131&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=E6EDF3" alt="GitHub Streak" />
+</div>
 
 ---
 
